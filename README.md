@@ -14,11 +14,11 @@ Aplicativo para auxiliar no controle do estoque e venda do CAEC.
 # Manual
 
 1. <a href="#-como-verificar-quantidade-em-estoque"> Como verificar quantidade em estoque. </a>
-2. Como efetuar uma venda.
-3. Como efetuar um reestoque.
-4. Como mudar de preço.
-5. Como adicionar um produto.
-6. Como remover um produto. (NÃO IMPLEMENTADO)
+2. <a href="#-como-efetuar-uma-venda">Como efetuar uma venda.</a>
+3. <a href="#-como-efetuar-um-reestoque">Como efetuar um reestoque.</a>
+4. <a href="#-como-mudar-de-preço">Como mudar de preço.</a>
+5. <a href="#-como-adicionar-um-produto">Como adicionar um produto.</a>
+6. <a href="#-como-remover-um-produto">Como remover um produto.</a> (NÃO IMPLEMENTADO)
 
 
 <h3> Como verificar quantidade em estoque</h3>
