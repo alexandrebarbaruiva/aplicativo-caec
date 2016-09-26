@@ -13,7 +13,7 @@ Aplicativo para auxiliar no controle do estoque e venda do CAEC.
 
 # Manual
 
-1.<a href="https://github.com/alexandrebarbaruiva/aplicativo-caec#como-verificar-quantidade-em-estoque"> Como verificar quantidade em estoque. </a>
+1. <a href="#-como-verificar-quantidade-em-estoque"> Como verificar quantidade em estoque. </a>
 2. Como efetuar uma venda.
 3. Como efetuar um reestoque.
 4. Como mudar de preço.
